@@ -1,12 +1,16 @@
-Hi, I’m with username @akashdeep789-proj
-I’m interested in learning programming launguage, and to become a Full Stack Developer
-I’m currently learning Backend
-I’m looking to collaborate on various projects
-How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m Akashdeep @akashdeep789-proj 
 
-<!---
-akashdeep789-proj/akashdeep789-proj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about learning programming languages and working towards becoming a Full Stack Developer.  
+Currently, I’m focusing on backend development and building strong skills in it.
+
+I’m open to collaborating on various projects, so feel free to connect!
+
+### How to reach me
+- Email: akashdeepkumar.jbp2000@gmail.com  
+
+  
+I love solving complex coding challenges and exploring new technologies!
+
+---
+
+Looking forward to connecting and building amazing projects together!
